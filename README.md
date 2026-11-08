@@ -9,3 +9,6 @@ python requirments
 
 requests
 beautifulsoup4
+
+
+NOTICE: CLAUDE WAS USED IN THE HELPING OF THIS TOOL
